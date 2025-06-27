@@ -19,9 +19,10 @@ python3 main.py
 
 Voice agent will be available via http://localhost:7860/client/
 
-Built w/ https://github.com/pipecat-ai/pipecat
+Built with [Pipecat](https://github.com/pipecat-ai/pipecat)
 
-## Demo
+## Live Demo
 
 https://latex-registered-moreover-mens.trycloudflare.com/client/
+
 Enable microphone, Click "Connect", and Gaia will greet you.
